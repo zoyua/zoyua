@@ -11,13 +11,5 @@ Hi, I'm [Zoyua](https://zoyua.cn), a Backend Developer from China, currently liv
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: <im.zoyua@gmail.com>
 
-📊 **This Week I Spent My Time On:**
-<!--START_SECTION:waka-->
-```text
-No Activity tracked this Week
-```
-<!--END_SECTION:waka-->
-
-
-📈 **My GitHub Stats:**  
+**My GitHub Stats:**  
 <img src="https://github-readme-stats.vercel.app/api?username=zoyua&show_icons=true&theme=gotham" alt="zoyua" />
