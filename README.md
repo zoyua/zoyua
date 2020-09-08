@@ -13,6 +13,9 @@ Hi, I'm [Zoyua](https://zoyua.cn), a Backend Developer from China, currently liv
 
 📊 **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
+```text
+No Activity tracked this Week
+```
 <!--END_SECTION:waka-->
 
 
