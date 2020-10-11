@@ -1,6 +1,6 @@
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-Hi, I'm [Zoyua](https://zoyua.cn), a Backend Developer from China, currently living in Beijing. Beside's programming, I enjoy music and movie.
+Hi, I'm [Zoyua](https://zoyua.github.io/), a Backend Developer from China, currently living in Beijing. Beside's programming, I enjoy music and movie.
 
 <!-- <img align="right" alt="GIF" src="https://github.com/zoyua/zoyua/blob/master/code.gif?raw=true" width="500" height="320" /> -->
   
@@ -11,5 +11,5 @@ Hi, I'm [Zoyua](https://zoyua.cn), a Backend Developer from China, currently liv
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: <im.zoyua@gmail.com>
 
-**My GitHub Stats:**  
-<img src="https://github-readme-stats.vercel.app/api?username=zoyua&show_icons=true&theme=gotham" alt="zoyua" />
+<!-- **My GitHub Stats:**  
+<img src="https://github-readme-stats.vercel.app/api?username=zoyua&show_icons=true&theme=gotham" alt="zoyua" /> -->
